@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6288
     wikipedia: http://en.wikipedia.org/wiki/Isaac_Newton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33504#Opticks--13-Or-A-Treatise-of-the-Reflections-Refractions-Inflections-and-Colours-of-Light
 gutenberg_bookshelf: Physics
 gutenberg_issued: '2010-08-23'
 gutenberg_type: Text
